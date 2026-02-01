@@ -48,6 +48,3 @@ The design focuses on clarity, accuracy, and usability, following professional B
     👤 Author
 Jatin Sawant
 ACCA Skill Level Student (7/13)
-🛠 Tools & Technologies Used
-Power BI
-Power Query (Data Cleaning & Transformation)
