@@ -1,6 +1,7 @@
      📊 Project Overview
 This project is an end-to-end Power BI reporting solution designed to analyze Sales Performance, Delivery Efficiency, and Customer Behavior across multiple dimensions such as country, customer segment, category, and time.
 The dashboard is built to simulate real-world business reporting used by sales managers and leadership teams for monitoring performance and making data-driven  decisions.
+
      🎯 Purpose of the Project
 The primary objective of this project is to:
 Provide a single source of truth for sales and delivery performance
