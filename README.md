@@ -10,6 +10,7 @@ Analyze customer segments and purchasing behavior
 Track year-over-year sales trends
 Support management-level decision making
 This project demonstrates how raw transactional data can be transformed into clear, actionable insights.
+     
      📌 Key Reports Included
 1️⃣ Sales Report
 Total Sales, Total Profit, Total Orders
@@ -25,6 +26,7 @@ Identification of delivery-heavy regions
 Customer segmentation analysis
 Contribution of each segment to overall sales
 Customer behavior trends across regions and time
+    
     📈 Key KPIs & Metrics
 Total Sales
 Total Profit
@@ -34,14 +36,16 @@ Sales by Country & Segment
 Category-wise Sales Contribution
 Yearly Sales Trend Analysis
 All KPIs are designed to reflect real business reporting standards.
-     Business Value
+    
+     📜 Business Value
 This dashboard helps stakeholders to:
 Quickly understand overall business performance
 Detect trends and anomalies in sales and delivery
 Compare customer segments and regional performance
 Make informed strategic and operational decisions
 The design focuses on clarity, accuracy, and usability, following professional BI standards.
-👤 Author
+
+    👤 Author
 Jatin Sawant
 ACCA Skill Level Student (7/13)
 🛠 Tools & Technologies Used
